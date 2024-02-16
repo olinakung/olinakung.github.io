@@ -20,4 +20,4 @@ To prepare for this WOD, I first read over the instructions to see what needs to
 
 What I could have done to be better prepared is to practice using RegEx. If I prepared and practiced using RegEx, it would have sped up my WOD instead of manually taking time to change every single line. For the next WOD, I might try to use RegEx more. This may also help decrease any errors/mistakes.
 
-For more information regarding Invoice 1 WOD: https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html
+For more information regarding Invoice 1 WOD: <a href src="https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html"> Invoice1 WOD</a>

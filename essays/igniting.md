@@ -1,24 +1,34 @@
 ---
 layout: essay
 type: essay
-title: "E3: Preparing for WODs Technical Essay"
+title: "E4: Progress in Programming Report"
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-15
+date: 2024-04-10
 published: false
 labels:
   - MIS
-  - E3
-  - WODs
+  - E4
 ---
 
-## WOD: Invoice1
-Invoice1 WOD incorporated JavaScript to display an Invoice regarding a sale. Through this assignment, commenting, expressions, using template literals ( ${} ), and JavaScript skills were strengthed. 
+## My programming skills have greatly improved in the following ways:
+Compared to the begining of this class, I have a better understanding of various concepts covered and practiced in class. I am now able to interpret the code better and what is needed to complete certain tasks. As we continue to practice and put our skills to the test, I am more detail-oriented and attentive when writing code. This includes spelling and correct file names. I believe I am now more comfortable working with HTML, CSS, and Javascript.
 
-Performing this WOD allowed me to strengthen my understanding and usage of JavaScript. Commenting, defining, and using template literals for the expressions worked well for me. Creating one row for the table and making sure it worked first was very helpful. This prevented me from not knowing where the code went wrong. However, what slowed me down was not using RegEx. I'm not strong in using RegEx so I manually changed each line of code. This could have been done faster if I had used RegEx.
+## I need to work on the following to improve my programming skills:
+Although I am starting to get better at writing and understanding code, I still struggle with Javascript and client-server. I am continuing to learn and reference from class lab materials, readings, peers, and online resources such as W3Schools and ChatGPT to improve my understanding of the concepts. I also need to improve my way of fixing and debugging, as I learned I struggled to understand it fully.
 
-To prepare for this WOD, I first read over the instructions to see what needs to be done. Then, I saw we were using JavaScript and decided to look over lab materials regarding JavaScript. Similarly to the previous WODs, I looked over my resources and searched for information that was unfamiliar to me. I also went over the WOD first without timing an attempt, just to get all the concepts down. I did not do anything different from my previous WODs as I built the habit of looking through instructions and resources first.
+## I have learned a lot from doing WODs and I can do them without copying the screencast:
+For most of the WODs, I learned a lot of trying things out and attempting to do it without looking at the screencast. For the most part, I was able to finish without the screencast and only looked at it to check. After completing and running through the WODs 2-3 times, I was more confident in completing the WODs alone.
 
-What I could have done to be better prepared is to practice using RegEx. If I prepared and practiced using RegEx, it would have sped up my WOD instead of manually taking time to change every single line. For the next WOD, I might try to use RegEx more. This may also help decrease any errors/mistakes.
+## The labs have help me learn and I am able to complete them with confidence:
+For me, the labs has helped me a lot in grasping, understanding, and developing key concepts, especially the ones needed in Assignment 1. At the end of each lab, I am able to feel more comfortable with certain concepts, but still need improvement.
 
-For more information regarding the WOD:
-<a href="https://dport96.github.io/ITM352/morea/050.variables_data_types/experience-SmartPhoneProducts1_variables.html">Invoice1 WOD</a>.
+## I learned a lot from my experience doing Assignment 1 and feel ready to work on Assignment 2:
+
+
+## I think the class can be improved to help my learning in the following ways:
+
+
+## What helps me the most in class are (WODs, Labs, class website, screencasts, readings, quizzes, one on one help, working with classmates, etc.):
+
+
+Be specific and give examples to support why you agree or disagree with the statement. Be honest! You are not graded on saying things you believe the instructor wants to hear. Rather you will be graded on the quality of your responses. If you have criticism of the class or instructor or suggestions that you believe will help, these are excellent things to state here. Of course insightful statements about things that work well for you are also important.

@@ -8,6 +8,7 @@ published: false
 labels:
   - MIS
   - E4
+  - Assignment 1
 ---
 
 ## My programming skills have greatly improved in the following ways:
@@ -23,7 +24,7 @@ For most of the WODs, I learned a lot of trying things out and attempting to do 
 For me, the labs has helped me a lot in grasping, understanding, and developing key concepts, especially the ones needed in Assignment 1. At the end of each lab, I am able to feel more comfortable with certain concepts, but still need improvement.
 
 ## I learned a lot from my experience doing Assignment 1 and feel ready to work on Assignment 2:
-
+Assignment 1 was more difficult than I had imagined and took a lot of time. The assignment really tested me in my abilities and what we have learned so far in class. It was a valuable experience in developing my coding skills and knowledge. A great thing about assignment 1 is that it revisits some of the previous labs we have completed and WODs, but also made us search for information such as building a nicer UI. Now that I have completed assignment 1 and layed the foundation, I believe I can attempt and tacklle assignment 2 and feel a little more confident. I'm still a bit worried as we only start lab 13 as of now, but am looking forward to understanding the concepts more.
 
 ## I think the class can be improved to help my learning in the following ways:
 

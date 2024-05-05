@@ -4,7 +4,7 @@ type: essay
 title: "E7: Reflective Analysis of my ITM 352 Experience"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-03
-published: True
+published: false
 labels:
   - MIS
   - E7

@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: "E7: Reflective Analysis of my ITM 352 Experience"
 # All dates must be YYYY-MM-DD format!
-date: 2024-05-03
-published: false
+date: 2024-05-04
+published: True
 labels:
   - MIS
   - E7
@@ -12,17 +12,23 @@ labels:
 ---
 
 ## ITM 352 has the following course goals:
-# Acquiring basic programming skills in an IT context
+### Acquiring basic programming skills in an IT context
+Personally, I believe we acquired the basic programming skills in an IT context before Assignment 1. This is because we had already learned how HTML works and the basics of JavaScript. We understood how to use each code; the only challenge was combining everything together. We developed these basic programming skills when we began doing WODs. For example, when we created an invoice table using document.write, variables, calculated sales, and utilized basic tags to organize information. At this stage, we already possessed the necessary skills; we just needed to continue honing them.
 
-# Understanding why MIS people need basic programming skills and knowledge
+### Understanding why MIS people need basic programming skills and knowledge
+MIS professionals need to grasp basic programming skills and knowledge to identify and comprehend problems effectively. This knowledge is beneficial for them to devise approaches to problem-solving. Additionally, understanding basic programming skills and knowledge is crucial when communicating with IT professionals, enabling them to simplify explanations for those unfamiliar with programming. Throughout the entire duration of the class, we acquired skills necessary to understand basic programming concepts and knowledge, including learning how to resort to RTFM when encountering concepts that were not understood.
 
-# Gaining hands-on experience in developing software applications
+### Gaining hands-on experience in developing software applications
+We gained hands-on experience in developing software applications while tackling Assignment 1 and 2. In Assignment 1, although we were provided with a template, we still gained experience in adding if-else statements for validations and managing inventory. Assignment 2 provided even more hands-on experience, particularly in connecting the login and registration pages and implementing numerous validations. These assignments truly tested the knowledge we had acquired throughout the semester and provided us with opportunities to challenge ourselves.
 
-# Experiencing first-hand MIS problems and solutions
+### Experiencing first-hand MIS problems and solutions
+Throughout the semester, I encountered various MIS problems and solutions firsthand. For instance, in Assignment 2, I initially struggled with connecting my quantities query string to my login, registration, and invoice pages. I had to carefully analyze the code to pinpoint the issue and understand why the connection was not occurring. I even sought assistance from ChatGPT. After thorough examination, I managed to devise a solution. This involved defining my query string for quantities to be accessible throughout the entire server.js file, allowing the params.toString() function to connect the quantities query successfully. Many challenges were overcome through thorough examination, understanding, and utilizing resources such as W3Schools and ChatGPT.
 
-# Experiencing and understanding first-hand project management, working in teams, software development issues
+### Experiencing and understanding first-hand project management, working in teams, software development issues
+Personally, I believe experiencing and understanding firsthand project management and teamwork in software development was most evident during the assignments. Assignments 1 and 2 made me realize the challenges involved in managing a project, especially during deployment. Sometimes, deploying a project is more difficult than anticipated. Although I didn't work in teams in this class, I did assist my friends with their code. Being able to solve their problems and provide assistance was a rewarding achievement. I believe having multiple pairs of eyes to analyze code is beneficial. Similar to software development issues, I discovered that Assignment 2 couldn't deploy correctly with Google Cloud (gcloud), which was initially stressful. However, realizing that the issue wasn't with my code but with the capabilities of our Google Cloud (gcloud) account helped me overcome the problem, not only for myself but also for the class. This led to Professor Port recognizing the deployment issue as well.
 
-# Gaining confidence in addressing MIS problems
+### Gaining confidence in addressing MIS problems
+At the beginning of the class, I lacked confidence in addressing MIS problems and coding. However, after completing Assignments 1 and 2, I feel much more confident in approaching and resolving MIS problems. I have also been able to assist my friends in analyzing and fixing some of their issues when they struggled to complete their assignments. For instance, when a friend's page couldn't link to others, I identified that the form action was incorrect after analyzing the code. This demonstrates my improvement in addressing and analyzing MIS problems.
 
 ## Course Elements and Personal Engagement:
 Crafting a professional portfolio turned out to be simpler than anticipated with the aid of a template. It's proven invaluable for documenting my journey in ITM 352 and offers a platform for others to delve into my insights. I believe it serves as a valuable resource for future ITM 352 students, offering insight into the course structure and challenges. The WODs were instrumental in my learning journey. Even though it can be tedious and one might not want to engage with it, I believe it helped me build my basic skills and foundation. Engaging in the WODs allowed me to practice coding structures and deepen my understanding of concepts. Personally, I found the quizzes less effective in preparing for labs, though they did encourage thorough reading of the lab materials, which is crucial. Through completing the labs, I learned more about codes and concepts, which led me to "RTFM" frequently. Labs were beneficial when we worked on code together in class, enhancing our understanding. However, they became stressful when we had to tackle tasks independently. Labs taught me to delve deeper into code aspects and concepts. Writing essays was a reflective exercise that underscored the progress made throughout the course. It served as a reminder of the journey taken and prompted introspection on decisions made. Assignment 1 highlighted the complexities involved in laying the foundation for a web application, while Assignment 2 delved more into the critical aspect of security. These assignments were pivotal in consolidating our learning and assessing our ability to apply knowledge independently or seek assistance when needed.
@@ -31,7 +37,9 @@ Crafting a professional portfolio turned out to be simpler than anticipated with
 This semester presented numerous challenges in our class, pushing me both mentally and physically as we tackled various coding concepts. Towards the end, grasping concepts like cookies and sessions proved particularly tough, as did implementing them in labs. The WODs provided valuable practice, though those closer to the start of Assignment 1 were especially demanding, like configuring loops to iterate through JSON products. However, the most daunting aspect was putting code together for the assignments using everything we'd learned. It required considerable time and strategic thinking to ensure the code was functional and coherent. I overcame these hurdles through extensive research on platforms like W3Schools and consulting with TAs and, when necessary, Professor Port. I've learned it's crucial to attempt problem-solving independently first, resorting to assistance only when truly stuck. Collaborating with peers also offered fresh perspectives. Completing Assignments 1 and 2 felt like significant milestones, affirming my progress and validating the effort invested in the course.
 
 ## Skill Development and Application:
+The three skill levels outlined in the course are a very accurate representation, I think. Personally, in the syntactic level, concepts and codes were easy to understand, and completing assignments such as labs and WODs was easy for me to comprehend. Moving onto the algorithmic level, I was still able to understand the material, but not as easily as in the syntactic level. Things slowly became more difficult, such as understanding functions. Then, things became tough when reaching the application and system level. This is where we applied all the knowledge gained throughout the course to complete Assignments 1 and 2. This was a huge hurdle and task to overcome. It was the most stressful level, as I spent a lot of time and effort trying to understand where things are placed and how to add lines of code.
 
+The hands-on experience with web-based e-service applications helped enhance my understanding and confidence in handling MIS issues. For example, when I couldn't get my welcome message to display when the user successfully logs into their account and is directed to their invoice, I had to carefully look at the code and make sure I am accessing the data objects correctly. Completing the assignments really boosted my confidence in my understanding of how to address and handle MIS issues.
 
 ## Use of AI (e.g. ChatGBT):
 The use of AI helped enhance my learning and productivity when I encountered challenges. An example of how I utilized AI to boost my productivity was during Assignment 2. For instance, when implementing validation for password requirements, such as the inclusion of special characters, I would ask ChatGPT to generate an if-else statement. This streamlined the process, allowing me to quickly validate passwords. Additionally, ChatGPT facilitated my learning by providing explanations for complex concepts. Instead of searching for explanations individually, I could ask ChatGPT to clarify specific lines of code, making my learning more efficient and less time-consuming.
